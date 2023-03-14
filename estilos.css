@@ -1,0 +1,121 @@
+
+table, th, td {
+	border: 1px solid hidden;
+	border-collapse: collapse;
+}
+img{
+	border: 6px groove;
+	border-color:  #5eb3f5 ;
+}
+h1{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 80px;
+	font-style: italic;
+	color:  #006bbf ;
+	margin: 10px 50px 10px 50px;
+}
+h2{
+	font-family: 'Crimson Text', serif;
+	font-size: 35px;
+	color:  #0c7dd6 ;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-right:60px;
+	padding-left: 60px;
+}
+#infoPerfil{
+	font-family: 'Vollkorn', serif;
+	text-align:center;
+	font-size: 20px;
+	margin: 5px 50px 5px 50px;
+	padding: 5px 10px 5px 10px;
+}
+#seccionDerecha{
+	padding:10px;
+	margin: 0px 10px 0px 10px;
+}
+#seccionIzquierda{
+	padding:10px;
+}
+.nombreTitulo{
+	font-size: 20px;
+	text-align: left;
+	margin:5px 5px 1px 5px;
+	padding:5px 5px 2px 5px;
+}
+p.nombreTitulo{
+	border-left-style: 7px solid;
+	border-left-color: #03c383;
+}
+.fecha{
+	font-size: 16px;
+	text-align: center;
+	margin:5px 5px 1px 5px;
+	padding:5px 5px 2px 5px;
+}
+.establecimiento{
+	font-size: 15px;
+	text-align: left;
+	font-style: italic;
+	margin: 5px 5px 15px 5px;
+	padding: 1px 5px;
+}
+p{
+	font-family: 'Vollkorn', serif;
+	font-size: 17px;
+	margin: 5px 5px 30px 5px;
+	padding-right: 5px;
+	padding-left:5px;
+}
+.idiomas{
+	font-family: 'Vollkorn', serif;
+	font-size: 17px;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+}
+ul{
+	margin:16px;
+	padding-right: 20px;
+	padding-left:20px;
+	text-align:center;
+}
+li{
+	color: white;
+}
+.iconos{
+	border:hidden;
+	width:25px;
+	height:25px
+}
+#infoTel {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	color:  #008953 ;
+}
+#infoMail {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	color: #05995f  ;
+}
+#infoNac {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	color:  #08ad6c ;
+}
+#infoDir {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	color: #0ebd78 ;
+}
+button{
+	border: 2px solid #03c383;
+	border-radius: 12px;
+	padding: 5px;
+	margin: 2px;
+	background-color:white;
+}
