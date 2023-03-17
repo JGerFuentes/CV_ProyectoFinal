@@ -16,7 +16,7 @@ Por otro lado, me resultó imposible subir mis commits a GitHub mediante la cons
       error: failed to push some refs to 'https://github.com/JGerFuentes/CV_JGerFuentes.git'
       <<< Process finished (PID=4572). (Exit code 1)
       
- Luego de varios intentos en diferentes oportunidades (ya con seis commits locales) y de buscar mucho en la web sin hallar soluciones, decidí finalizar el trabajo en mi computadora y luego simplemente arrastrar los archivos al repositorio "CV_JGFuentes" y añadirlos todos a una misma rama. Luego de hacerlo me di cuenta de que Github me permitía trabajar online con una interfaz similar a la de VisualCode, pero desconocía que existía esta posibilidad. Tal vez desde allí podría haber evitado este inconveniente con el matcheo.
+ Luego de varios intentos en diferentes oportunidades (ya con seis commits locales) y de buscar mucho en la web sin hallar soluciones, decidí finalizar el trabajo en mi computadora y luego simplemente arrastrar los archivos al repositorio "CV_JGFuentes" y añadirlos todos a una misma rama. Luego de hacerlo me di cuenta de que Github me permitía trabajar online con una interfaz similar a la de VisualStudio Code, pero desconocía que existía esta posibilidad. Tal vez desde allí podría haber evitado este inconveniente con el matcheo.
  
  
  Ante cualquier duda o comentario, me pueden contactar al mail --> jgerfuentes@gmail.com
