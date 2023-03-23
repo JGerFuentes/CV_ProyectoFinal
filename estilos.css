@@ -2,6 +2,8 @@
 table, th, td {
 	border: 1px solid hidden;
 	border-collapse: collapse;
+	max-width: 100%;
+	min-width: 100px;  /**Añadiendo estas limitaciones en el ancho del documento la visualización de la página es mejor en dispositivos tales como el Samsung galaxy S10*/
 }
 img{
 	border: 6px groove;
