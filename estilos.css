@@ -1,4 +1,6 @@
-
+body{
+	background-color: #e1f8f9;
+}
 table, th, td {
 	border: 1px solid hidden;
 	border-collapse: collapse;
@@ -83,7 +85,7 @@ ul{
 	text-align:center;
 }
 li{
-	color: white;
+	color: #e1f8f9;
 }
 .iconos{
 	border:hidden;
