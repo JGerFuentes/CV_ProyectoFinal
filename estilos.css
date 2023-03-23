@@ -47,10 +47,7 @@ h2{
 	margin:5px 5px 1px 5px;
 	padding:5px 5px 2px 5px;
 }
-p.nombreTitulo{
-	border-left-style: 7px solid;
-	border-left-color: #03c383;
-}
+
 .fecha{
 	font-size: 16px;
 	text-align: center;
